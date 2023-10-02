@@ -31,7 +31,7 @@ Ao longo dos anos, exploramos diversos lugares incríveis e vivemos experiência
 ## Contato
 
 - **GitHub:** [CarlosBatista-jcb](https://github.com/CarlosBatista-jcb)
-- **Canal no YouTube:** [Curiosos da Caserna - Informações Militares]([link_para_o_seu_canal](https://www.youtube.com/channel/UCHhGyl-LfiW_YuEboDCN-Kg))
+- **Canal no YouTube:** [Curiosos da Caserna - Informações Militares](https://www.youtube.com/channel/UCHhGyl-LfiW_YuEboDCN-Kg))
 
 Fique à vontade para nos seguir nas redes sociais e acompanhar nossas atividades. Esperamos inspirar você a explorar o mundo e buscar suas próprias aventuras.
 
