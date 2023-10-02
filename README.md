@@ -30,7 +30,7 @@ Ao longo dos anos, exploramos diversos lugares incríveis e vivemos experiência
 
 ## Demo
 
-Confira nossa página web em ação! [Clique aqui para acessar a demonstração](https://pessoal.cbsites10.com.br/) {:target="_blank"}.
+Confira nossa página web em ação! <a href="https://pessoal.cbsites10.com.br/" target="_blank">Clique aqui para acessar a demonstração</a>.
 
 ## Contato
 
